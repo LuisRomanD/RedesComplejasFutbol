@@ -1,4 +1,4 @@
-# RedesComplejasFutbol
+# RedesComplejasTarea1
 
 ## Repositorio de primera tarea redes complejas multicapa
 
